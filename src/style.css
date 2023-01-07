@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #F1F2FF;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+  .heading-xl {
+    @apply text-[56px] leading-[70px];
+  }
+  .heading-lg {
+    @apply text-[40px] leading-[51px];
+  }
+  .heading-md {
+    @apply text-[32px] leading-[40px];
+  }
+  .heading-sm {
+    @apply text-[24px] leading-[28px];
+  }
+  .body-md {
+    @apply text-[18px] leading-[28px];
+  }
+  .body-sm {
+    @apply text-[16px] leading-[28px];
+  }
+}
