@@ -17,27 +17,27 @@
         <Card 
           title="Animation" 
           description="Learn the latest animation techniques to create stunning motion design and captivate your audience." 
-          src="/icon-animation.svg"
+          src="icon-animation.svg"
         />
         <Card 
           title="Design" 
           description="Create beautiful, usable interfaces to help shape the future of how the web looks." 
-          src="/icon-design.svg"
+          src="icon-design.svg"
         />
         <Card 
           title="Photography" 
           description="Explore critical fundamentals like lighting, composition, and focus to capture exceptional photos." 
-          src="/icon-photography.svg"
+          src="icon-photography.svg"
           />
         <Card 
           title="Crypto" 
           description="All you need to know to get started investing in crypto. Go from beginner to advanced with this 54 hour course." 
-          src="/icon-crypto.svg"
+          src="icon-crypto.svg"
           />
         <Card 
           title="Business" 
           description="A step-by-step playbook to help you start, scale, and sustain your business without outside investment." 
-          src="/icon-business.svg"
+          src="icon-business.svg"
           />
       </section>
     </main>

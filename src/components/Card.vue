@@ -27,7 +27,7 @@
 <template>
   <div class="card">
     <img class="absolute top-0 -translate-y-1/2" :src="src" alt="business icon" />
-    <h1 class="text-[#13183F] font-extrabold heading-sm mb-4">{{ title }}</h1>
+    <h1 class="text-skilled-dark-blue font-extrabold heading-sm mb-4">{{ title }}</h1>
     <p class="text-[#83869A] font-medium body-sm mb-6">{{ description }}</p>
     <Button 
       variant="text" 

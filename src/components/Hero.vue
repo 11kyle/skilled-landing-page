@@ -17,7 +17,7 @@
 <template>
   <section class="relative overflow-x-hidden">
     <div class="md:max-w-[446px] lg:max-w-[457px] mb-16 md:my-36 lg:my-56 mx-auto md:mx-0">
-      <h1 class="heading-lg lg:heading-xl font-extrabold">Maximize skill, minimize budget</h1>
+      <h1 class="heading-lg text-skilled-dark-blue lg:heading-xl font-extrabold">Maximize skill, minimize budget</h1>
       <p class="text-skilled-gray font-medium body-sm md:body-md mt-6 lg:mt-7 mb-6 lg:mb-10">Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.</p>
       <Button text="Get Started" variant="contained" color="secondary" />
     </div>

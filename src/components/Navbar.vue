@@ -23,6 +23,6 @@
 
 <style>
   .navbar {
-    @apply flex items-center justify-between mt-4 md:mt-6 mb-8;
+    @apply flex items-center justify-between mt-4 md:mt-6 mb-12;
   }
 </style>
