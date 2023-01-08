@@ -17,9 +17,9 @@ Great e-learning landing page. Pixel perfect responsive layout. Built with Vue.j
 
 ### Screenshots
 
-![Mobile](./Skilled%20e-learning%20landing%20page_mobile.png)
-![Tablet](./Skilled%20e-learning%20landing%20page_tablet.png)
 ![](./Skilled%20e-learning%20landing%20page_desktop.png)
+[Mobile Image](./Skilled%20e-learning%20landing%20page_mobile.png)
+[Tablet Image](./Skilled%20e-learning%20landing%20page_tablet.png)
 
 ### Links
 
