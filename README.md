@@ -23,7 +23,7 @@ Great e-learning landing page. Pixel perfect responsive layout. Built with Vue.j
 
 ### Links
 
-- Solution URL: [https://github.com/11kyle/skilled-landing-page](https://github.com/11kyle/skilled-landing-page)
+- Repo URL: [https://github.com/11kyle/skilled-landing-page](https://github.com/11kyle/skilled-landing-page)
 - Live Site URL: [https://11kyle.github.io/skilled-landing-page/](https://11kyle.github.io/skilled-landing-page/)
 
 ### Built with
